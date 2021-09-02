@@ -14,11 +14,11 @@ exponential growth of virus.
 3- How to cope up with this ever increasing growth of infected patients?
 
 ## Features:
-1- User Vaccination Scheduling
-2- Certificate Generation
-3- Paramedics Panel
-4- Vaccination Records
-5- Admin Panel
+# 1- User Vaccination Scheduling
+# 2- Certificate Generation
+# 3- Paramedics Panel
+# 4- Vaccination Records
+# 5- Admin Panel
 
 You can also test out the app
 [IVAC Live Demo] (https://ivacuetp.azurewebsites.net/ivac/)
