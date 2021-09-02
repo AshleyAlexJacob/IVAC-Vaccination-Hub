@@ -14,21 +14,21 @@ exponential growth of virus.
 3- How to cope up with this ever increasing growth of infected patients?
 
 ## Features:
-1- User Vaccination Scheduling
-2- Certificate Generation
-3- Paramedics Panel
-4- Vaccination Records
-5- Admin Panel
+### 1- User Vaccination Scheduling
+### 2- Certificate Generation
+### 3- Paramedics Panel
+### 4- Vaccination Records
+### 5- Admin Panel
 
 You can also test out the app
-[IVAC Live Demo](https://ivacuetp.azurewebsites.net/ivac/)
+[IVAC Live Demo] (https://ivacuetp.azurewebsites.net/ivac/)
 
 ## How to Use this Repo
 
-1- First Install Xampp.
-2- Start apache and mysql services.
-3- Download/Clone this repository in Xampp/htdocs.
-4- Then open your http://localhost/phpmyadmin/ and create a new database by the name of  "database" and in top menu import the database file in the repository located in ivac/database/database.sql
-5- Enter this url http://localhost/ivac/
-6- Enjoy it
+1- First Install Xampp. <br/>
+2- Start apache and mysql services. <br/>
+3- Download/Clone this repository in Xampp/htdocs. <br/>
+4- Then open your http://localhost/phpmyadmin/ and create a new database by the name of  "database" and in top menu import the database file in the repository located in ivac/database/database.sql <br/>
+5- Enter this url http://localhost/ivac/ <br/>
+6- Enjoy it <br/>
 7- Don't forget to star it and keep promoting open source 😀
