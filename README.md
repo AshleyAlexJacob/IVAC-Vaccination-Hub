@@ -31,12 +31,12 @@ You can also test out the app
 4- Then open your http://localhost/phpmyadmin/ and create a new database by the name of  "database" and in top menu import the database file in the repository located in ivac/database/database.sql <br/>
 5- Enter this url http://localhost/ivac/ <br/>
 6- To use employee side click on employee login:<br/>
-   Credentials:
-   username: employee
-   Password: password
+   Credentials:<br/>
+   username: employee<br/>
+   Password: password<br/>
 7- To use admin side click on admin login:<br/>
-   Credentials:
-   username: admin
-   Password: password  
+   Credentials:<br/>
+   username: admin<br/>
+   Password: password <br/> 
 8- Enjoy it <br/>
 9- Don't forget to star it and keep promoting open source 😀
