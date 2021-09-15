@@ -30,5 +30,13 @@ You can also test out the app
 3- Download/Clone this repository in Xampp/htdocs. <br/>
 4- Then open your http://localhost/phpmyadmin/ and create a new database by the name of  "database" and in top menu import the database file in the repository located in ivac/database/database.sql <br/>
 5- Enter this url http://localhost/ivac/ <br/>
-6- Enjoy it <br/>
-7- Don't forget to star it and keep promoting open source 😀
+6- To use employee side click on employee login:<br/>
+   Credentials:
+   username: employee
+   Password: password
+7- To use admin side click on admin login:<br/>
+   Credentials:
+   username: admin
+   Password: password  
+8- Enjoy it <br/>
+9- Don't forget to star it and keep promoting open source 😀
